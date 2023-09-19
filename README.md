@@ -1,4 +1,5 @@
 see `lib/tiny_ring.rb` for usage
+
 run tests with `bundle exec ruby tests`
 
 this is a tiny gem, typically a single `class` or `module` meant to add a very
