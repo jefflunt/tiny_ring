@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = "tiny_ring"
-  s.version     = "1.0.0"
+  s.version     = "1.1.0"
   s.description = "a tiny ring buffer implementation"
   s.summary     = "a tiny ring buffer implementation that is memory efficient"
   s.authors     = ["Jeff Lunt"]
